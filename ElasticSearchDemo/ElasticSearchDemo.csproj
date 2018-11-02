@@ -12,6 +12,8 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+    <PackageReference Include="NEST" Version="6.4.0" />
+    <PackageReference Include="NEST.JsonNetSerializer" Version="6.4.0" />
   </ItemGroup>
 
 </Project>
